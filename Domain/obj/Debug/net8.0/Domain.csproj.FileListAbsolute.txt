@@ -1,0 +1,22 @@
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Domain\obj\Debug\net8.0\ref\Domain.dll

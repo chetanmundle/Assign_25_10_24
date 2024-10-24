@@ -1,0 +1,30 @@
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\App.Core\obj\Debug\net8.0\ref\App.Core.dll

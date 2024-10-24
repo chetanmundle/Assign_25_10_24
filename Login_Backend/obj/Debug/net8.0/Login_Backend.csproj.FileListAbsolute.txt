@@ -1,0 +1,306 @@
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\appsettings.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.exe
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.deps.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.runtimeconfig.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Azure.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Humanizer.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Infrastructure.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\App.Core.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Infrastructure.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Domain.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.csproj.AssemblyReference.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.AssemblyInfoInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.AssemblyInfo.cs
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.csproj.CoreCompileInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.Login_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Login_Backend.props
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login_Backend.props
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login_Backend.props
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\scopedcss\bundle\Login_Backend.styles.css
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Ba.64D70325.Up2Date
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\refint\Login_Backend.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.genruntimeconfig.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\ref\Login_Backend.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\FluentValidation.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mapster.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mapster.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\MediatR.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.exe
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.deps.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.runtimeconfig.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Login_Backend.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Azure.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\FluentValidation.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Humanizer.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mapster.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mapster.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\MediatR.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.csproj.AssemblyReference.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.AssemblyInfoInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.AssemblyInfo.cs
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.Login_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Login_Backend.props
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login_Backend.props
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login_Backend.props
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\scopedcss\bundle\Login_Backend.styles.css
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Ba.64D70325.Up2Date
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\refint\Login_Backend.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.genruntimeconfig.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\ref\Login_Backend.dll

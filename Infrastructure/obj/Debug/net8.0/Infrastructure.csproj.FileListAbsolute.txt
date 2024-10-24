@@ -1,0 +1,38 @@
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Frontend_Backend\Login_App\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Visual Studio\Fontend_Backend\Login_App_25_10_24\Login_Backend\Login_Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
