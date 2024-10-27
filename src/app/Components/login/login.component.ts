@@ -49,7 +49,7 @@ export class LoginComponent {
       next: (res: any) => {
         if (res.status == 200) {
           localStorage.setItem('userId', res.data.userId);
-          localStorage.setItem('access_token', 'true');
+          localStorage.setItem('access_token', res.access_token);
           this.router.navigateByUrl('/Home');
           //   alert('Login Successfully');
           this.isLoader = false;

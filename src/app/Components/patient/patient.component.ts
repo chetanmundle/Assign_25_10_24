@@ -9,11 +9,14 @@ import { LocationService } from '../../Services/Location/location.service';
 import { CommonModule, DatePipe, JsonPipe } from '@angular/common';
 import { PatientService } from '../../Services/PatientService/patient.service';
 import { MyToastServiceService } from '../../Services/MyToastService/my-toast-service.service';
+import { jwtDecode } from 'jwt-decode';
+import { TokenService } from '../../Services/TokenService/token.service';
+import { LoaderComponent } from '../loader/loader.component';
 
 @Component({
   selector: 'app-patient',
   standalone: true,
-  imports: [ReactiveFormsModule, CommonModule, DatePipe],
+  imports: [ReactiveFormsModule, CommonModule, DatePipe, LoaderComponent],
   templateUrl: './patient.component.html',
   styleUrl: './patient.component.css',
 })
@@ -31,7 +34,7 @@ export class PatientComponent implements OnInit {
       lastName: ['', [Validators.required]],
       dateOfBirth: ['', [Validators.required]],
       gender: ['', [Validators.required]],
-      contactNumber: ['', [Validators.required, Validators.minLength(8)]],
+      contactNumber: ['', [Validators.required]],
       email: ['', [Validators.required, Validators.email]],
       address: ['', [Validators.required]],
       countryId: ['', [Validators.required]],
@@ -73,6 +76,7 @@ export class PatientComponent implements OnInit {
   private locationService = inject(LocationService);
   private patientService = inject(PatientService);
   private tostr = inject(MyToastServiceService);
+  private tokenService = inject(TokenService);
 
   countriesList: any[] = [];
   stateList: any[] = [];
@@ -82,10 +86,13 @@ export class PatientComponent implements OnInit {
   pageSize: number = 5;
   isUpdate: boolean = false;
   UpdatePatientObj: any;
+  isLoader: boolean = false;
 
   onClickSave() {
+    this.isLoader = true;
     let patient = this.patientFormData.value;
-    patient.createdBy = Number(localStorage.getItem('userId'));
+
+    patient.createdBy = Number(this.tokenService.getUserIdFromToken());
     patient.countryId = Number(patient.countryId);
     patient.stateId = Number(patient.stateId);
     patient.cityId = Number(patient.cityId);
@@ -101,6 +108,7 @@ export class PatientComponent implements OnInit {
         } else {
           console.log('Error to Save Patient : ', res);
         }
+        this.isLoader = false;
       },
       error: (error: any) => {
         if (error.status == 404) {
@@ -108,12 +116,13 @@ export class PatientComponent implements OnInit {
         } else {
           console.log(error);
         }
+        this.isLoader = false;
       },
     });
   }
 
   getAllPatients(pageNum: number) {
-    let agentId = Number(localStorage.getItem('userId'));
+    let agentId = Number(this.tokenService.getUserIdFromToken());
     this.patientService
       .getAllPatientByAgentAndPageNumber(agentId, pageNum, this.pageSize)
       .subscribe({

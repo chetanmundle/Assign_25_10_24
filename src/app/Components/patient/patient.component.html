@@ -71,7 +71,6 @@
         class="form-control"
         name="phone"
         formControlName="contactNumber"
-        min="8"
       />
     </div>
 
@@ -279,4 +278,11 @@
       <button class="btn btn-success" (click)="onClickNext()">Next</button>
     </div>
   </div>
+</div>
+
+<!-- Loader -->
+<div>
+  @if(isLoader){
+  <app-loader class="loader-backdrop"></app-loader>
+  }
 </div>
