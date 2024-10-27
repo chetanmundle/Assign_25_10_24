@@ -14,21 +14,23 @@ using System.Threading.Tasks;
 
 namespace App.Core.App.User.Command
 {
-    public class LoginUserCommand : IRequest<ResponseDto>
+    public class LoginUserCommand : IRequest<UserLoginResponse>
     {
         public LoginDto LoginDto { get; set; }
     }
 
-    public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, ResponseDto>
+    public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, UserLoginResponse>
     {
         private readonly IAppDbContext _appDbContext;
+        private readonly IJwtService _jwtService;
 
-        public LoginUserCommandHandler(IAppDbContext appDbContext)
+        public LoginUserCommandHandler(IAppDbContext appDbContext, IJwtService jwtService)
         {
             _appDbContext = appDbContext;
+            _jwtService = jwtService;
         }
 
-        public async Task<ResponseDto> Handle(LoginUserCommand request, CancellationToken cancellationToken)
+        public async Task<UserLoginResponse> Handle(LoginUserCommand request, CancellationToken cancellationToken)
         {
            var LoginDtoModel = request.LoginDto ?? throw new BadRequest("Null Object");
 
@@ -38,19 +40,14 @@ namespace App.Core.App.User.Command
                                                        cancellationToken: cancellationToken)
                              ?? throw new NotFoundException("User With this Credentials Not Found");
 
-            //if(user == null)
-            //{
-            //    return new ResponseDto
-            //    {
-            //        Status = 404,
-            //        Message = "User Not Found"
-            //    };
-            //}
+            var accessToken = await _jwtService.Authenticate(user.UserId, user.UserName);
 
-            return new ResponseDto
+
+            return new UserLoginResponse
             {
                 Status = 200,
-                Message = "User Successfully Logged In",
+                Message = "User Login Successfully",
+                access_token = accessToken,
                 Data = user.Adapt<UserWithoutPassDto>(),
             };
 

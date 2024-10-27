@@ -2,6 +2,7 @@
 using App.Core.App.Patient.Query;
 using App.Core.Models.Patient;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ namespace Login_Backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class PatientController : ControllerBase
     {
         private readonly IMediator _mediator;

@@ -459,3 +459,4 @@ D:\Visual Studio\Fontend_Backend\Login_App_Assissment_25_10_24\Login_Backend\Log
 D:\Visual Studio\Fontend_Backend\Login_App_Assissment_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.pdb
 D:\Visual Studio\Fontend_Backend\Login_App_Assissment_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\Login_Backend.genruntimeconfig.cache
 D:\Visual Studio\Fontend_Backend\Login_App_Assissment_25_10_24\Login_Backend\Login_Backend\Login_Backend\obj\Debug\net8.0\ref\Login_Backend.dll
+D:\Visual Studio\Fontend_Backend\Login_App_Assissment_25_10_24\Login_Backend\Login_Backend\Login_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
