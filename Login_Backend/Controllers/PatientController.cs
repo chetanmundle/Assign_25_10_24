@@ -1,4 +1,5 @@
 ﻿using App.Core.App.Patient.Command;
+using App.Core.App.Patient.Query;
 using App.Core.Models.Patient;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -21,6 +22,31 @@ namespace Login_Backend.Controllers
         public async Task<IActionResult> CreatePatient(CreatePatientDto createPatientDto)
         {
             return Ok(await _mediator.Send(new CreatePatientCommand { CreatePatientDto = createPatientDto }));
+        }
+
+        [HttpGet("[action]/agentId/{agentId}/pageSize/{pageSize}/pageNumber/{pageNum}")]
+        public async Task<IActionResult> GetPatientByAgentIdInPage(int agentId, int pageSize, int pageNum)
+        {
+            return Ok(await _mediator.Send(new GetAllPatientByAgentQuery { UserId = agentId, PageNumber = pageNum, PageSize = pageSize }));
+        }
+
+
+        [HttpDelete("[action]/patientId/{patientId}")]
+        public async Task<IActionResult> DeletePatientById(string patientId)
+        {
+            return Ok(await _mediator.Send(new DeletePatientCommand { PatientId = patientId }));
+        }
+
+        [HttpGet("[action]/patientId/{patientId}")]
+        public async Task<IActionResult> GetPatientById(string patientId)
+        {
+            return Ok(await _mediator.Send(new GetPatientByIdQuery { PatientId = patientId }));
+        }
+
+        [HttpPut("[action]")]
+        public async Task<IActionResult> UpdatePatient(PatientDto patient)
+        {
+            return Ok(await _mediator.Send(new UpdatePatientCommand { Patient = patient }));
         }
     }
 }

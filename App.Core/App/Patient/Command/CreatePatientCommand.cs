@@ -56,7 +56,7 @@ namespace App.Core.App.Patient.Command
 
             // Creating Primary key
             //PadLEft is the method which insert the 0 to left until the length not full i.e. 5
-            patient.PatientId = beforeAt.ToUpper() + user.PatientCreated.ToString().PadLeft(5, '0');
+            patient.PatientId = user.AgentId + user.PatientCreated.ToString().PadLeft(5, '0');
             patient.IsDeleted = false;
 
 

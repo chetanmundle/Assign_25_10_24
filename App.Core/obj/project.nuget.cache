@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sOGzojNIwsE=",
+  "dgSpecHash": "m0kQJzGxaRE=",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio\\Fontend_Backend\\Login_App_25_10_24\\Login_Backend\\Login_Backend\\App.Core\\App.Core.csproj",
+  "projectFilePath": "D:\\Visual Studio\\Fontend_Backend\\Login_App_Assissment_25_10_24\\Login_Backend\\Login_Backend\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cheta\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
     "C:\\Users\\cheta\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",

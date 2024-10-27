@@ -50,8 +50,14 @@ namespace App.Core.App.User.Command
 
             var user = userModel.Adapt<Domain.Entities.User>();
             user.PatientCreated = 0;
+            user.UserName = user.UserName.ToLower();
+        
 
             await _appDbContext.Set<Domain.Entities.User>().AddAsync(user, cancellationToken);
+
+            await _appDbContext.SaveChangesAsync(cancellationToken);
+
+            user.AgentId = "PAT" + user.UserId.ToString().PadLeft(2,'0');
 
             await _appDbContext.SaveChangesAsync(cancellationToken);
 

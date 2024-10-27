@@ -42,6 +42,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Login_Backend.Controllers.PatientController",
+    "Method": "DeletePatientById",
+    "RelativePath": "api/Patient/DeletePatientById/patientId/{patientId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Login_Backend.Controllers.PatientController",
+    "Method": "GetPatientByAgentIdInPage",
+    "RelativePath": "api/Patient/GetPatientByAgentIdInPage/agentId/{agentId}/pageSize/{pageSize}/pageNumber/{pageNum}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageNum",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Login_Backend.Controllers.PatientController",
+    "Method": "GetPatientById",
+    "RelativePath": "api/Patient/GetPatientById/patientId/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Login_Backend.Controllers.PatientController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patient/UpdatePatient",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "App.Core.Models.Patient.PatientDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Login_Backend.Controllers.StateController",
     "Method": "GetAllStateByCountryId",
     "RelativePath": "api/State/GetAllStateByCountryId/{countryId}",
