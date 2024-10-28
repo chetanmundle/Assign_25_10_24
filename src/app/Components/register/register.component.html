@@ -77,7 +77,20 @@
                         class="form-control"
                         name="password"
                         formControlName="password"
+                        (input)="PrintStrongNess($event)"
+                        (focus)="onPasswordFocus()"
+                        (blur)="onPasswordBlur()"
                       />
+                      @if(passwordStrength === "Strong" && isFocucedonPass){
+                      <div class="text-success">Strong Password</div>
+                      }@else if (passwordStrength == "Moderate") {
+                      <div class="text-warning">Moderate Password</div>
+                      }@else if (passwordStrength === "Weak") {
+                      <div class="text-danger">Weak Password</div>
+                      }
+
+                      <!-- For validation -->
+
                       @if (userFormData.controls['password'].touched &&
                       userFormData.controls['password'].errors?.['required']) {
                       <div class="text-danger">*required</div>
@@ -169,4 +182,8 @@
       </div>
     </div>
   </div>
+
+  @if (isLoader) {
+  <app-loader class="loader-backdrop"></app-loader>
+  }
 </section>
