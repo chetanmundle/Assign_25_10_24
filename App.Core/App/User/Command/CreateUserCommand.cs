@@ -23,10 +23,12 @@ namespace App.Core.App.User.Command
     public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, ResponseDto>
     {
         private readonly IAppDbContext _appDbContext;
+        private readonly IEncryptionService _encryptionService;
 
-        public CreateUserCommandHandler(IAppDbContext appDbContext)
+        public CreateUserCommandHandler(IAppDbContext appDbContext, IEncryptionService encryptionService)
         {
             _appDbContext = appDbContext;
+            _encryptionService = encryptionService;
         }
 
         public async Task<ResponseDto> Handle(CreateUserCommand request, CancellationToken cancellationToken)
@@ -50,8 +52,11 @@ namespace App.Core.App.User.Command
 
             var user = userModel.Adapt<Domain.Entities.User>();
             user.PatientCreated = 0;
+            // set username in lowercase
             user.UserName = user.UserName.ToLower();
-        
+
+            //set Encripted Password
+            user.Password = _encryptionService.EncryptData(user.Password);
 
             await _appDbContext.Set<Domain.Entities.User>().AddAsync(user, cancellationToken);
 
@@ -60,6 +65,7 @@ namespace App.Core.App.User.Command
             user.AgentId = "PAT" + user.UserId.ToString().PadLeft(2,'0');
 
             await _appDbContext.SaveChangesAsync(cancellationToken);
+           
 
             return new ResponseDto
             {

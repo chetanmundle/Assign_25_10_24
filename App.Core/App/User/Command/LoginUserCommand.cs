@@ -23,11 +23,13 @@ namespace App.Core.App.User.Command
     {
         private readonly IAppDbContext _appDbContext;
         private readonly IJwtService _jwtService;
+        private readonly IEncryptionService _encryptionService;
 
-        public LoginUserCommandHandler(IAppDbContext appDbContext, IJwtService jwtService)
+        public LoginUserCommandHandler(IAppDbContext appDbContext, IJwtService jwtService,IEncryptionService encryptionService)
         {
             _appDbContext = appDbContext;
             _jwtService = jwtService;
+            _encryptionService = encryptionService;
         }
 
         public async Task<UserLoginResponse> Handle(LoginUserCommand request, CancellationToken cancellationToken)
@@ -35,10 +37,12 @@ namespace App.Core.App.User.Command
            var LoginDtoModel = request.LoginDto ?? throw new BadRequest("Null Object");
 
             var user = await _appDbContext.Set<Domain.Entities.User>()
-                             .FirstOrDefaultAsync(u => u.UserName == LoginDtoModel.UserName &&
-                                                       u.Password == LoginDtoModel.Password,
+                             .FirstOrDefaultAsync(u => u.UserName == LoginDtoModel.UserName ,
                                                        cancellationToken: cancellationToken)
-                             ?? throw new NotFoundException("User With this Credentials Not Found");
+                             ?? throw new NotFoundException("UserId is  Not Valid");
+
+            if (!string.Equals(LoginDtoModel.Password, _encryptionService.DecryptData(user.Password)))
+                throw new NotFoundException("Password is Wrong");
 
             var accessToken = await _jwtService.Authenticate(user.UserId, user.UserName);
 

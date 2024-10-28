@@ -21,30 +21,39 @@ namespace App.Core.App.User.Command
     public class ForgetPasswordUserCommandHandler : IRequestHandler<ForgetPasswordUserCommand, ResponseDto>
     {
         private readonly IAppDbContext _appDbContext;
+        private readonly IEncryptionService _encryptionService;
 
-        public ForgetPasswordUserCommandHandler(IAppDbContext appDbContext)
+        public ForgetPasswordUserCommandHandler(IAppDbContext appDbContext, IEncryptionService encryptionService)
         {
             _appDbContext = appDbContext;
+            _encryptionService = encryptionService;
         }
 
         public async Task<ResponseDto> Handle(ForgetPasswordUserCommand request, CancellationToken cancellationToken)
         {
             var forgetPassDto = request.ForgetPasswordDto ??
                 throw new BadRequest("Forgetpassword Dto is null");
+            //Console.WriteLine($"Dto pass : {forgetPassDto.NewPassword}");
 
             if(!string.Equals( forgetPassDto.NewPassword, forgetPassDto.ConfirmNewPassword))
                 throw new BadRequest("New Password and ConfirmNewPassword is Not Match");
 
             var user = await _appDbContext.Set<Domain.Entities.User>()
-                             .FirstOrDefaultAsync(u => u.UserName == forgetPassDto.UserName &&
-                                                       u.Password == forgetPassDto.OldPassword,
+                             .FirstOrDefaultAsync(u => u.UserName == forgetPassDto.UserName,
                                                       cancellationToken: cancellationToken) ??
-                             throw new NotFoundException("User With this UserName and Password not Exist");
+                             throw new NotFoundException("User With this UserName not Exist");
 
-            if(string.Equals(forgetPassDto.NewPassword,user.Password) ||
-                string.Equals(forgetPassDto.NewPassword, user.LastFirstPass) ||
-                string.Equals(forgetPassDto.NewPassword, user.LastSecondPass) ||
-                string.Equals(forgetPassDto.NewPassword, user.LastThirdPass))
+            //Console.WriteLine($"DB PAss : {_encryptionService.DecryptData(user.Password)}");
+            if (!string.Equals(forgetPassDto.OldPassword, _encryptionService.DecryptData(user.Password)))
+                throw new NotFoundException("Wrong Password");
+
+
+
+
+            if(string.Equals(forgetPassDto.NewPassword, _encryptionService.DecryptData(user.Password)) ||
+                string.Equals(forgetPassDto.NewPassword, user.LastFirstPass != null ? _encryptionService.DecryptData(user.LastFirstPass) : "") ||
+                string.Equals(forgetPassDto.NewPassword, user.LastSecondPass != null ? _encryptionService.DecryptData(user.LastSecondPass) : "") ||
+                string.Equals(forgetPassDto.NewPassword, user.LastThirdPass != null ? _encryptionService.DecryptData(user.LastThirdPass) : ""))
             {
                 throw new BadRequest("New Password is Same with Current or Last three Passwords!");
             }
@@ -52,7 +61,7 @@ namespace App.Core.App.User.Command
             user.LastThirdPass = user.LastSecondPass;
             user.LastSecondPass = user.LastFirstPass;
             user.LastFirstPass = user.Password;
-            user.Password = forgetPassDto.NewPassword;
+            user.Password = _encryptionService.EncryptData(forgetPassDto.NewPassword);
 
             await _appDbContext.SaveChangesAsync(cancellationToken);
 

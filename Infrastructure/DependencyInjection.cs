@@ -22,6 +22,9 @@ namespace Infrastructure
             // bind Jwt Service
             services.AddScoped<IJwtService, JwtService>();
 
+            // Encription/ Decription Service
+            services.AddScoped<IEncryptionService, EncryptionService>();
+
 
             services.AddDbContext<AppDbContext>((provider, options) =>
             {
