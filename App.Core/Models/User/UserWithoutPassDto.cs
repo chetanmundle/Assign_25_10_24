@@ -13,7 +13,5 @@ namespace App.Core.Models.User
         public string FullName { get; set; }
 
         public string UserName { get; set; }
-
-        public bool? IsChecked { get; set; }
     }
 }

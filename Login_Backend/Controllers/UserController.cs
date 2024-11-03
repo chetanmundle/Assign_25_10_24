@@ -18,19 +18,21 @@ namespace Login_Backend.Controllers
             _mediator = IMediator;
         }
 
+        // Api for register user
         [HttpPost("[action]")]
         public async Task<IActionResult> CreateUser(UserDto userDto)
         {
             return Ok(await _mediator.Send(new CreateUserCommand { UserDto = userDto }));
         }
 
-
+        // Api for login
         [HttpPost("[action]")]
         public async Task<IActionResult> LoginUser(LoginDto loginDto)
         {
             return Ok(await _mediator.Send(new LoginUserCommand { LoginDto = loginDto }));
         }
 
+        // Api for Forgot password
         [HttpPut("[action]")]
         public async Task<IActionResult> UpdatePassword(ForgetPasswordDto passwordDto)
         {

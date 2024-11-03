@@ -17,9 +17,6 @@ namespace Domain.Entities
         public string Password { get; set; }
 
         public string AgentId { get; set; }
-
-        public bool? IsChecked { get; set; }
-
         public string LastFirstPass { get; set; }
         public string LastSecondPass { get; set; }
         public string LastThirdPass { get; set; }

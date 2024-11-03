@@ -11,7 +11,7 @@ namespace Login_Backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize]    // How Authorize Works?
     public class PatientController : ControllerBase
     {
         private readonly IMediator _mediator;

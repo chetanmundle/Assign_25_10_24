@@ -16,7 +16,5 @@ namespace App.Core.Models.User
 
         public string Password { get; set; }
 
-        public bool? IsChecked { get; set; }
-
     }
 }

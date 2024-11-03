@@ -17,11 +17,13 @@ namespace Infrastructure.Services
             _protector = provider.CreateProtector("anythiskeyforprotect");
         }
 
+        // Convert plaintext in cipher text
         public string EncryptData(string plainText)
         {
             return _protector.Protect(plainText);
         }
 
+        // Convert Ciphertext into plaintext
         public string DecryptData(string encryptedData)
         {
            return _protector.Unprotect(encryptedData);

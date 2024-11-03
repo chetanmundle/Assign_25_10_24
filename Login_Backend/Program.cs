@@ -93,9 +93,7 @@ namespace Login_Backend
                 app.UseSwaggerUI();
             }
 
-
             // for Cors error 
-
             {
                 app.UseCors(x => x
                .AllowAnyOrigin()
@@ -105,7 +103,7 @@ namespace Login_Backend
 
             app.UseHttpsRedirection();
 
-            //Add jwt middleware
+            //Add jwt middleware   // How its work??
             app.UseAuthentication();
 
             app.UseAuthorization();

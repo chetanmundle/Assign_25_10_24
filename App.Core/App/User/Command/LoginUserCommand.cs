@@ -34,7 +34,7 @@ namespace App.Core.App.User.Command
 
         public async Task<UserLoginResponse> Handle(LoginUserCommand request, CancellationToken cancellationToken)
         {
-           var LoginDtoModel = request.LoginDto ?? throw new BadRequest("Null Object");
+            var LoginDtoModel = request.LoginDto ?? throw new BadRequest("Null Object");
 
             var user = await _appDbContext.Set<Domain.Entities.User>()
                              .FirstOrDefaultAsync(u => u.UserName == LoginDtoModel.UserName ,

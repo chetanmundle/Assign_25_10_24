@@ -17,7 +17,7 @@ namespace Infrastructure.Services
     {
         private readonly IConfiguration _configuration;
 
-        public JwtService(IAppDbContext dbContext, IConfiguration configuration)
+        public JwtService( IConfiguration configuration)
         {
             _configuration = configuration;
         }
@@ -42,6 +42,7 @@ namespace Infrastructure.Services
                 SigningCredentials = new SigningCredentials(
                     new SymmetricSecurityKey(Encoding.ASCII.GetBytes(key)),
                     SecurityAlgorithms.HmacSha256Signature),
+                
 
             };
 
